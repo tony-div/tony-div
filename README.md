@@ -82,8 +82,8 @@ Performance-driven **Full Stack Developer** with a strong foundation in Computer
 
 <div align="center">
 
-[![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony-div&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/tony-div)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-div&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/tony-div)
+[![Tony's GitHub Stats](https://github-readme-stats.shion.dev/api?username=tony-div&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/tony-div)
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=tony-div&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/tony-div)
 
 </div>
 
