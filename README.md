@@ -1,47 +1,95 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Tony
+<div align="center">
 
-## 💻 Full Stack Developer
+# 👋 Hello, I'm Tony George
 
-I'm a versatile developer with expertise in multiple areas of software development. My primary focus is backend development, where I excel with Express.js, but I also enjoy working on web and mobile applications.
+**Full Stack Developer** · Cairo, Egypt
 
-### 🛠️ Tech Stack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=600&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%7C+Angular+%7C+React+%7C+Rust;Edge+AI+%26+ML+Systems;Solving+Real-world+Problems+with+Clean+Code)](https://git.io/typing-svg)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony1george/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonygeorge3445@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tony-div)
+![Profile Views](https://komarev.com/ghpvc/?username=tony-div&label=Profile%20Views&color=0e75b6&style=flat)
 
-### 🌱 Currently Exploring
-- React
-- React Native with Expo
-- Advanced backend patterns
-
-### 🚀 Notable Projects
-
-#### Moftaked
-*Project details coming soon...*
-
-<!-- 
-To add later:
-- Description
-- Technologies used
-- Key features
-- Link to repository or live demo
--->
-
-### 📫 Let's Connect
-
-<!-- Add your social links here -->
-<!--
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](your-portfolio-url)
--->
+</div>
 
 ---
 
-⭐️ From [tony-div](https://github.com/tony-div)
-```
+## 🚀 About Me
+
+Performance-driven **Full Stack Developer** with a strong foundation in Computer Science and hands-on experience building **scalable web architectures**, **cross-platform mobile apps**, and **edge-deployed ML systems**.
+
+- 🔭 Currently building **[Workout Hacker](https://github.com/tony-div/workout-hacker)** — an on-device Edge AI fitness system with low-latency real-time inference.
+- 🎓 BS.c in Computer Science — **Alexandria University** · GPA 3.56 (Excellent)
+- 💼 Former Frontend Engineering Intern @ **Arkedia Development**
+- ⚡ 80+ active users on **[Moftaked](https://github.com/orgs/moftaked/repositories)** — attendance & inventory platform
+
+---
+
+## 🔥 Projects
+
+### 💪 [Workout Hacker](https://github.com/tony-div/workout-hacker)
+> *Edge AI · React Native Nitro Modules · Rust · MediaPipe · Node.js* — **Sep 2025 – Present**
+
+- On-device Edge AI fitness system using React Native Nitro Modules, MediaPipe (33 3D landmarks), and a custom pure-Rust tree-traversal inference engine (**<20ms latency**)
+- 60-feature kinematic classifier (**90%+ accuracy**) with EMA temporal hysteresis + sEMG fatigue classifier with baseline-normalized log-ratio dynamics
+- "Ghost Guide" form guidance, 3-frame debounced rep counting, LLM-driven workout planner enforcing 18 periodization rules via schema-constrained JSON
+
+### 📦 [Moftaked](https://github.com/orgs/moftaked/repositories)
+> *Express 5 · TypeScript · React Router 7 SPA · MySQL 8 · PWA* — **Sep 2024 – Present**
+
+- Attendance & inventory platform for **80+ active users** — JWT token rotation, 4-role RBAC, granular middleware securing 60+ REST endpoints
+- Hierarchical equipment reservations with state-machine approval workflows + automated per-entity attendance analytics
+- Offline sync with data versioning, automated multi-resolution image processing (Sharp/WebP), audit logging
+
+### 🛡️ Arkedia — Shield
+> *Frontend Engineering Intern* — **Jun 2025 – Jul 2025** · Remote · [shield.arkedia.dev](https://shield.arkedia.dev/)
+
+- Responsive security workforce management platform managing guards, operations & contracts
+- Engineered the HR module from scratch with **Angular v18**, fixed critical system bugs, integrated modules with RESTful APIs
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript & TypeScript, Node.js, Java, Rust, Kotlin, Python, PHP 8, Go, C# |
+| **Frontend** | Angular, React, React Native, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js Express, Laravel 12 |
+| **Databases** | MySQL / MariaDB, MongoDB, SQL |
+| **DevOps & Tools** | Git & GitHub, Docker, CI/CD pipelines, Linux (Debian) |
+| **Concepts** | ML & Edge AI, REST APIs, Data Structures & Algorithms, OOP, Unit Testing, Agentic Coding |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony-div&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/tony-div)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-div&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/tony-div)
+
+</div>
+
+---
+
+<p align="center">
+  <i>Let's connect — open to internships, collaborations & interesting projects.</i><br/>
+  <b>📬 tonygeorge3445@gmail.com</b>
+</p>
